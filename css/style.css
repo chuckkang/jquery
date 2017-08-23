@@ -1,0 +1,31 @@
+
+#button{
+    background-color: red;
+}
+body{
+    text-align: left;
+    width: 800px;
+    margin:auto;
+}
+#ptag{
+    color: red;
+}
+#wrapper {
+    display: block;
+    border: 3px solid black;
+    width: 100%
+}
+
+p {
+ display: inline-block;
+}
+
+#changeColor{
+    font-size: 10px;
+    color: red;
+}
+
+#hover{
+    border:2px solid black;
+    
+}
